@@ -24,7 +24,7 @@
 [![Joel's github activity graph](https://activity-graph.herokuapp.com/graph?username=AthulKrishna1712&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-- 🕸 Learning Flutter
+- 🕸 Learning Devops
 - ⚒ other projects @ [Co Science](https://github.com/Co-Science) , [FISAT Projects](https://github.com/FISAT-PROJECTS)
 
 
